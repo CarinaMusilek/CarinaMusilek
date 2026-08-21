@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Carinamusilek">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Carina" alt="Hello! I&#39;m Carina" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=690375&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Carina" alt="Hello! I&#39;m Carina" />
   </a>
 </p>
 
@@ -32,14 +32,14 @@ Data Science and Statistics student who loves to build models that are actually 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Carinamusilek&show_icons=true&theme=default&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Carinamusilek&layout=compact&theme=default&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Carinamusilek&show_icons=true&theme=default&title_color=690375&icon_color=690375&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Carinamusilek&layout=compact&theme=default&title_color=690375&icon_color=690375&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Carinamusilek&bg_color=00000000&color=8957e5&line=8957e5&point=1f2328&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Carinamusilek&bg_color=00000000&color=690375&line=690375&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
